@@ -54,8 +54,9 @@ click on "apply and close". <br/>
 ----------------------------------------------------------------------------------------------------------------------------------------
 [Create the database. Or import the SQL file]. (Proceed to the end if this file to check out the creation of a database).
 
+Note --> You can run the project but you cannot connect to the database unless it is created. So you will have to create the database or import the sql file first and then run the project!.
 ----------------------------------------------------------------------------------------------------------------------------------------
-Now, that you have applied the JAR file to the project. We can run the project now!!.
+Now, that you have applied the JAR file to the project and created the database. We can run the project now!!.
 ----------------------------------------------------------------------------------------------------------------------------------------
 Steps to run the project --> <br/>
 Step 1 - Open the xampp control panel and start the apache and mysql services. Once they are running proceed to step 2. <br/>
