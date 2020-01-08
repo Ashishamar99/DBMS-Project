@@ -7,7 +7,8 @@ Softwares used -
 Eclipse IDE - https://www.eclipse.org/downloads/
 XAMPP Server - https://sourceforge.net/projects/xampp/
 MySQL Workbench - https://dev.mysql.com/downloads/workbench/ (Optional)
-Connector/J - https://dev.mysql.com/downloads/connector/j/ (Choose platform independent for OS if you don't find a compatible OS in the list)
+Connector/J - https://dev.mysql.com/downloads/connector/j/ 
+(Choose platform independent for OS if you don't find a compatible OS in the list)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 This project is built using JSP and MySQL. JSP (Java Server Pages) is a collection of technologies that helps software developers create dynamically generated web pages based on HTML, XML, SOAP, or other document types. After downloading and setting up all the softwares mentioned, you will be ready to start off with your JSP programming. Although, you will need to do a few extra steps in setting up your IDE.
@@ -84,5 +85,5 @@ Click on "Browse" and choose the sql file.
 Scroll down and Click "Go"
 After a while you should be able to access the tables and data under the database if the import was successful. If it was unsuccessful, change the character set of the file so that it is compatible with the sql file and try again.
 
-NOTE --> IN THE CONNECTION URL "bloodbank" IS THE NAME OF THE DATABASE. REPLACE THE  WORD "bloodbank" WITH THE DATABASE NAME TO CONNECT TO YOUR DATABASE.
+NOTE --> In the connection URL "bloodbank" is the name of the database. Replace the word "bloodbank" with the database name to connect to your database.
 ----------------------------------------------------------------------------------------------------------------------------------------
