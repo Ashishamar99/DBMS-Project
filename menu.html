@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Index</title>
+</head>
+<!--
+<script type="text/javascript">
+function loadcontent()
+{
+    var varbuttons = document.getElementsByTagName("button");
+    var buttonsCount = varbuttons.length;
+    for (var i = 0; i <= buttonsCount; i += 1) 
+    {
+        varbuttons[i].onclick = function(e) 
+        {
+            var ch = parseInt(this.id);
+            switch(ch)
+                {
+                    case 1: document.getElementById("content").innerHTML = '<object type="text/html" data="donor.html" ></object>';
+                        break;
+                    case 2: document.getElementById("content").innerHTML = '<object type="text/html" data="receiver.html" ></object>';
+                        break;
+                    case 3: document.getElementById("content").innerHTML = '<object type="text/html" data="doctor.html" ></object>';
+                        break;
+                    case 4: document.getElementById("content").innerHTML = '<object type="text/html" data="inventory.html" ></object>';
+                        break;
+                    default: alert("Default case");
+                }
+        };
+    }
+    //document.getElementById("content").innerHTML = '<object type="text/html" data="donor.html" ></object>';
+}
+</script>
+-->
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<body>
+<center>
+<br><br>
+<div id="content"></div><br><br>
+<img style="width:13%;height:13%" src="logo6.png"><br><br>
+<a href="donor.html"><button id="1">Donor</button></a><br><br>
+<a href="receiver.jsp"><button>Receiver</button></a><br><br>
+<a href="doctor.html"><button id="3">Doctor</button></a><br><br>
+<a href="inventory.html"><button id="4">Inventory</button></a><br><br>
+<a href="delete.jsp"><button>Delete</button></a>
+</center>
+</body>
+</html>

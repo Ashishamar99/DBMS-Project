@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    color: black;
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    font-family: sans-serif;
+    border-radius: 100px;
+}
+button{
+    border-radius: 100px;
+    color: white;
+    font-size: 20;
+    background-color:black;
+    font-family: sans-serif;
+}
+table, th, td{
+	border: 1px solid black;
+	weight: bold;
+}
+
+#divid{
+	background-color: #ckckck;
+}
+
+#bodyid{
+	align: center;
+}
