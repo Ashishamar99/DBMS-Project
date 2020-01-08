@@ -16,7 +16,7 @@ This project is built using JSP and MySQL. JSP (Java Server Pages) is a collecti
 To create a JSP project in Eclipse IDE you will need to create a dynamic web project. If you don't have that option in the IDE Follow the steps given in the link <br/>(https://beginnersbook.com/2017/06/how-to-fix-dynamic-web-project-missing-in-eclipse-issue/). <br/>
 <br/> Briefly explaining the steps --> <br/>
 Step 1 - Open the IDE and navigate to Help --> Install New Software. <br/>
-Step 2 - In Work with paste this link: http://download.eclipse.org/releases/mars <br/>
+Step 2 - In 'Work with" paste this link: http://download.eclipse.org/releases/mars <br/>
        - If that link doesn't work try http://download.eclipse.org/releases/kepler <br/>
        - (Let that load for a while) <br/>
 Step 3 - After the link fetches all the modules navigate to "Web, XML, Java EE and OSGi Enterprise Development" (this should probably be in the last). <br/>
